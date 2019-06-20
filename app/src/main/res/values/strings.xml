@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CalcGraph</string>
+    <string name="valor_conta">Valor Conta:</string>
+    <string name="_10">10%</string>
+    <string name="_20">20%</string>
+    <string name="_15">15%</string>
+    <string name="_0_0">0.0</string>
+    <string name="gorjeta">Gorjeta:</string>
+    <string name="total_conta">Total Conta:</string>
+    <string name="gorjeta_vari_vel">Gorjeta Variável:</string>
+    <string name="_25">25%</string>
+</resources>
